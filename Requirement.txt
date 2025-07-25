@@ -1,0 +1,12 @@
+#Required Assets
+
+pillow
+pygame
+
+Make sure these files are in the same directory as the Python script:
+
+grass_field.png - Background grass texture
+football.png - Static football image
+goal_post.png - Goal post image
+football.gif - Animated rolling football
+celebration.gif - Victory celebration animation
